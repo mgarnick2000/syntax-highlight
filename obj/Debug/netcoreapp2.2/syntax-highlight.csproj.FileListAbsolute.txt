@@ -1,0 +1,11 @@
+/Users/markgarnick/projects/syntax-highlight/bin/Debug/netcoreapp2.2/syntax-highlight.deps.json
+/Users/markgarnick/projects/syntax-highlight/bin/Debug/netcoreapp2.2/syntax-highlight.runtimeconfig.json
+/Users/markgarnick/projects/syntax-highlight/bin/Debug/netcoreapp2.2/syntax-highlight.runtimeconfig.dev.json
+/Users/markgarnick/projects/syntax-highlight/bin/Debug/netcoreapp2.2/syntax-highlight.dll
+/Users/markgarnick/projects/syntax-highlight/bin/Debug/netcoreapp2.2/syntax-highlight.pdb
+/Users/markgarnick/projects/syntax-highlight/obj/Debug/netcoreapp2.2/syntax-highlight.csprojAssemblyReference.cache
+/Users/markgarnick/projects/syntax-highlight/obj/Debug/netcoreapp2.2/syntax-highlight.csproj.CoreCompileInputs.cache
+/Users/markgarnick/projects/syntax-highlight/obj/Debug/netcoreapp2.2/syntax-highlight.AssemblyInfoInputs.cache
+/Users/markgarnick/projects/syntax-highlight/obj/Debug/netcoreapp2.2/syntax-highlight.AssemblyInfo.cs
+/Users/markgarnick/projects/syntax-highlight/obj/Debug/netcoreapp2.2/syntax-highlight.dll
+/Users/markgarnick/projects/syntax-highlight/obj/Debug/netcoreapp2.2/syntax-highlight.pdb
